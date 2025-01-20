@@ -205,7 +205,7 @@ If you press Add New Help Topic, you will be able to create Help Topics, set whi
 <br />
 
 <p>
-<img src="[https://imgur.com/SlZk7J8](https://imgur.com/5s1znQl).png"/>
+<img src="https://imgur.com/5s1znQl.png"/>
 </p>
 <p>
 I created five new Help Topics: Business Critical Outage, Personal Computer Issues, Equipment Request, Password Reset, Other. 
